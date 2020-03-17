@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-modules';
+  textToCapitalize = 'teXt To TrAnSform';
+  textWithBadWords = 'teXt sucker To TrAnSform donkey';
 }
